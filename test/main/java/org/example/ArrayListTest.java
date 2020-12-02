@@ -1,4 +1,6 @@
-import main.java.MyCoolArrayList;
+package main.java.org.example;
+
+import org.example.MyCoolArrayList;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

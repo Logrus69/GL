@@ -1,4 +1,4 @@
-package main.java;
+package org.example;
 
 import java.util.*;
 
@@ -152,11 +152,6 @@ public class MyCoolArrayList<E> implements List<E> {
     public boolean retainAll(Collection<?> c) {
         return false;
     }
-
-   /* @Override
-    public void sort(Comparator<? super E> c) {
-        Arrays.sort((E[]) elements, 0, size, c);
-    }*/
 
     @Override
     public void clear() {

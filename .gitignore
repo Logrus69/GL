@@ -1,2 +1,10 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
+.src/org/
+.src/META-INF/
+.artifacts/
+.production/
+.test/main/Java/ArrayListTest.class
+
+MyCoolProject.iml
+target/
